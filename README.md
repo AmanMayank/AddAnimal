@@ -18,6 +18,8 @@ You may also see any lint errors in the console.
 
 App Description -
 
+tech Stack - Basic React
+
 1. The app displays a button to display an animal on screen.
 2. On clicking the button, a random anuimal picture will appear on the screen.(The Images of animals are pre-saved and selected at ramdom to be displayed.)
 3. Clicking the animal pictures increases the size of heart Icon present at right bottom corner of the image upto a pre-set size.
